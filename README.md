@@ -42,59 +42,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Revionics](https://www.revionics.com/)**  
-
-  AI-powered retail price optimization and promotional/markdown management platform focused on governed recommendations, margin impact, and large-scale retail execution.
-
-
-
-- **[Competera](https://competera.ai/)**  
-
-  Retail pricing platform combining competitive intelligence, AI recommendations, and price optimization for omnichannel retailers.
-
-
-
-- **[Blue Yonder Pricing](https://blueyonder.com/)**  
-
-  Enterprise pricing solution within the Blue Yonder suite for regular price, promotion, and markdown optimization with strong supply-chain context.
-
-
-
-- **[Pricefx](https://www.pricefx.com/)**  
-
-  Configurable price optimization and management platform used across retail and other industries for rule-based and AI-assisted pricing.
-
-
-
-- **[Zilliant](https://www.zilliant.com/)**  
-
-  Pricing and revenue intelligence platform strong in B2B and complex pricing scenarios, also applied in retail contexts.
-
-
-
-- **[Intelligence Node, Omnia Retail](https://www.intelligencenode.com/)**  
-
-  Competitive price intelligence and retail pricing platforms that feed optimization and monitoring use cases.
-
-
-
-- **[Quicklizard, Prisync](https://www.quicklizard.com/)**  
-
-  Dynamic pricing and competitor-price monitoring tools popular with e-commerce and mid-market retailers.
-
-
-
-- **[PROS Smart Price and related solutions](https://pros.com/)**  
-
-  Pricing optimization capabilities from PROS used in various industries including retail and distribution.
-
-
-
-- **[Other retail pricing & intelligence platforms](https://www.revionics.com/)**  
-
-  Additional commercial tools covering price scraping, elasticity modeling, and automated price execution.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Pricefy](https://pricefy.io/)** | Cloud-native competitor price monitoring, dynamic repricing, and product feed automation engine for e-commerce stores and omnichannel brands. | **Free tier at $0/month**; Starter plan starts at **$49/month** ($37/month billed annually) for up to 100 SKUs; Pro tier with Dynamic Repricing starts at **$99/month** ($74/month billed annually) for up to 2,000 SKUs. | **Free forever plan** capped at **50 SKUs**, 5 competitors monitored, 1 daily price update, AI automatch, and 1 shopping feed channel (no credit card required). Also provides a **14-day free trial** of paid tiers. |
+| **[Price2Spy](https://www.price2spy.com/)** | Automated competitor price monitoring, price comparison, and dynamic repricing platform tailored for SMBs, e-commerce retailers, and manufacturers. | Starts at **$39.95/month** for Starter plan (monitoring up to 100 product URLs once daily); Basic plan starts at **$157.95/month** for up to 1,000 URLs with repricing module. | No free forever plan; **14-day free trial** with full feature access, tracking for up to 10 product URLs, email alerts, and report generation (no credit card required). |
+| **[Prisync](https://prisync.com/)** | Competitor price tracking, monitoring, and dynamic repricing platform designed for e-commerce businesses, Shopify sellers, and multi-channel retailers. | Starts at **$99/month** (Professional plan for up to 100 products, 3 daily updates; **$49/month** for Shopify stores); Premium tier at **$199/month** (1,000 products); Platinum at **$399/month** (5,000 products). | No free forever plan; **14-day free trial** with full feature access, tracking for up to 100 products, 3 daily price updates, and email notifications (no credit card required). |
+| **[BlackCurve](https://www.blackcurve.com/)** | Pricing optimization and dynamic repricing software helping e-commerce sellers automate rules-based and margin-optimized pricing decisions. | Starts at **£199/month** (~$250/month billed annually) for Team plan (up to 5,000 SKUs, standard pricing rules, quotation builder); Professional plan starts at **£699/month**. | No free forever plan; **30-day free trial** providing access to Enterprise repricing features, rule engine simulations, and up to 5,000 SKUs. |
+| **[Dealavo](https://dealavo.com/)** | AI-driven competitor price monitoring, dynamic repricing, and promotional intelligence platform for online retailers and consumer brands. | Starts at **€220/month** (~$240/month) for core price monitoring and dynamic pricing automation; scales based on SKU count and competitor scraping frequency. | No free forever plan; **7-day free trial** with sample catalog analysis, automated competitor price scraping, and dynamic rule simulation on demo account. |
+| **[Omnia Retail](https://www.omniaretail.com/)** | Integrated retail pricing automation suite providing competitor price scraping, dynamic repricing algorithms, and Google Shopping bid adjustments. | Starts at **€399/month** (~$430/month) for SMB Single-Shop plan (AI price monitoring & dynamic repricing, up to 5 user seats); enterprise multi-shop plans start at ~€1,200/month. | No free forever plan; offers a **14-day guided trial / pilot** with competitor price scraping and dynamic repricing rule simulation for up to 500 SKUs upon demo request. |
+| **[Wiser Solutions](https://www.wiser.com/)** | Omnichannel commerce intelligence platform offering automated competitor repricing, MAP compliance monitoring, and retail catalog tracking. | Starts at **$699/month** (~$8,388/year billed annually) for entry-tier online price monitoring, MAP compliance tracking, and catalog benchmarking. | No free forever plan; offers a **14-day guided trial / data audit** with sample competitor crawl and MAP compliance scan upon sales consultation. |
+| **[Competera](https://competera.ai/)** | Retail dynamic pricing platform powered by deep learning that models cross-elasticity, demand forecasting, and competitive market signals. | Starts at **$750/month** for competitive price monitoring; enterprise AI dynamic pricing & demand elasticity modules start at **~$4,166/month** (~$50,000/year billed annually). | No free forever plan; offers a **30-day Proof of Concept (PoC) pilot** including historical sales data audit and live pricing recommendation sandbox upon qualification. |
+| **[Symson](https://www.symson.com/)** | AI pricing platform that automates pricing workflows, combining competitor tracking, margin rules, and demand elasticity modeling. | Starts at **€997/month** (~$1,080/month flat rate) for core AI price optimization engine, competitor tracking, and margin rule execution. | No free forever plan; **14-day free trial** with custom product catalog onboarding, AI price recommendation sandbox, and elasticity preview. |
+| **[Quicklizard](https://www.quicklizard.com/)** | Dynamic pricing and competitor-price monitoring platform designed for omnichannel retailers, brand manufacturers, and high-velocity e-commerce. | Starts at **$3,300/month** (~$39,600/year) for core dynamic pricing platform, marketplace repricing, and competitor monitoring; scales by SKU count and calculation frequency. | No free forever plan; offers a **14-to-30-day guided proof-of-concept pilot** with custom pricing rule simulation on retailer's catalog upon sales qualification. |
+| **[Yieldigo](https://www.yieldigo.com/)** | AI price optimization platform built for supermarkets, hypermarkets, drugstores, and retail chains modeling consumer baskets and elasticity. | Starts at **~$3,000/month** (~$36,000/year annual agreement) for core retail grocery/FMCG AI price optimization module; scales by store count and format complexity. | No free forever plan; offers a **30-day guided pilot / simulation** using historical transactional basket data to model category price elasticity upon sales qualification. |
+| **[RELEX Solutions](https://www.relexsolutions.com/)** | Unified retail planning and supply chain platform delivering integrated demand forecasting, price optimization, and promotional/markdown planning. | Starts at **~$4,166/month** (~$50,000/year annual agreement) for modular mid-market retail price and markdown optimization; full enterprise deployments scale to $200,000–$1,000,000+/year. | No free forever plan; offers a **30-day guided proof-of-value simulation** utilizing historical retailer POS and inventory data upon enterprise sales qualification. |
+| **[Zilliant](https://www.zilliant.com/)** | End-to-end price management and optimization software delivering AI-driven price elasticity, segmentation, and sales rep deal guidance for B2B and retail distribution. | Starts at **~$4,166/month** (~$50,000/year annual agreement) for core price management and guidance modules; scales by company transaction volume and user seats. | No free forever plan; offers a **30-day proof-of-value pilot** and historical transaction data elasticity audit upon enterprise sales qualification. |
+| **[Revionics](https://www.revionics.com/)** | Science-backed retail pricing platform leveraging machine learning to model consumer demand, optimize base prices, promotions, and markdown strategies. | Starts at **~$5,000/month** (~$60,000/year annual contract) for core retail base price optimization; scales based on store footprint, price zones, and SKU catalog size. | No free forever plan; offers a **30-day proof-of-value evaluation** / guided pricing simulation with historical retailer transaction data upon enterprise sales qualification. |
+| **[Intelligence Node](https://www.intelligencenode.com/)** | Real-time retail intelligence and AI price tracking platform monitoring billions of SKUs across competitive digital storefronts and marketplaces. | Starts at **$5,000/month** (~$60,000/year minimum engagement) for automated SKU tracking, competitive price feeds, and digital shelf analytics. | No free forever plan; offers a **14-day guided proof-of-concept trial** with a sample competitor crawl and digital shelf audit for up to 1,000 SKUs upon request. |
+| **[PROS Smart Price](https://pros.com/)** | Enterprise AI-powered pricing and revenue management platform supporting dynamic price guidance, revenue optimization, and omnichannel sales execution. | Starts at **~$6,250/month** (~$75,000/year billed annually) for core price optimization and dynamic guidance modules; scales by transaction revenue volume. | No free forever plan; offers a **30-day guided evaluation sandbox** and opportunity analysis audit with historical transaction data upon enterprise sales qualification. |
+| **[Pricefx](https://www.pricefx.com/)** | Cloud-native pricing platform offering modular price optimization, price setting, CPQ, rebate management, and real-time pricing analytics. | Starts at **~$8,333/month** (~$100,000/year annual subscription); foundational training and implementation packages start from €4,000–€10,500. | No free forever plan; offers a **30-day guided interactive sandbox demo** and proof-of-concept evaluation with customer catalog upload upon sales qualification. |
+| **[Blue Yonder Pricing](https://blueyonder.com/)** | Enterprise retail pricing and revenue management solution within the Blue Yonder supply chain suite for regular price, promotion, and markdown optimization. | Starts at **~$8,333/month** (~$100,000/year annual agreement) for entry-tier price and markdown optimization module; enterprise-wide deployments range from $250,000 to $1,000,000+/year. | No free forever plan; offers a **30-to-60-day guided value assessment pilot** with simulated retail supply chain and pricing elasticity scenarios upon enterprise sales qualification. |
 
 
 
